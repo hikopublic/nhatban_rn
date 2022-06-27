@@ -1,0 +1,7 @@
+{
+  "base_url": "https://api.nbet.win/",
+  "base_socket_url": "https://sock.nbet.win",
+  "base_image_url": "http://web-nb.ignorelist.com",
+  "base_domain": "https://nbet.win",
+  "brand_name": "NBET"
+}
